@@ -14,7 +14,7 @@
 
 pkgname=wine-lol
 pkgver=4.17
-pkgrel=1
+pkgrel=2
 
 _pkgbasever=${pkgver/rc/-rc}
 
